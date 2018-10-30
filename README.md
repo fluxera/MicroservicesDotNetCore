@@ -1,2 +1,2 @@
 # MicroservicesDotNetCore
-Demo application and sourtce code for the series of articles.
+Source code for the series of articles on microservices using .NET Core.
